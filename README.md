@@ -1,18 +1,17 @@
-## Olá, eu sou o Lucas Damasceno 👋
+# Lucas Damasceno
 
-Analista de **risco político** com foco em **eleições e instituições na América Latina**. Sou doutor em Relações Internacionais pela Universidade de São Paulo (USP) e advogado (OAB-MG).
+Trabalho com risco político, eleições e instituições na América Latina. Desde 2019 participei de 15 missões de observação eleitoral da OEA, dez delas como coordenador regional. Em 2026 integrei a Missão de Especialistas Eleitorais da União Europeia nas eleições gerais brasileiras.
 
-Meu trabalho combina observação eleitoral em campo com análise de dados: transformar resultados, indicadores e contexto institucional em leituras claras sobre risco, crises e cenários.
+Na USP, sou pesquisador do Observatório Eleitoral das Américas (parceria USP–OEA) e do CAENI, e oriento trabalhos no MBA em Marketing Político e Campanhas Eleitorais da ECA. Entre 2020 e 2022 também trabalhei no Programa USP Municípios, fazendo diagnósticos de políticas públicas municipais com dados do IBGE, PNAD, INEP, RAIS e DataSUS.
 
-### O que faço
-- 🗳️ **Observação eleitoral:** 15 missões de observação eleitoral da OEA desde 2019, 10 delas como coordenador regional
-- 🇪🇺 **Análise eleitoral:** Electoral Assistant na Missão de Especialistas Eleitorais da União Europeia nas eleições gerais brasileiras de 2026
-- 🔎 **Pesquisa:** Observatório Eleitoral das Américas (USP–OEA) e CAENI-USP
-- 🎓 **Docência:** orientador no MBA em Marketing Político e Campanhas Eleitorais (ECA-USP)
-- 📊 **Dados públicos:** diagnósticos de políticas municipais com dados do IBGE, PNAD, INEP, RAIS e DataSUS (Programa USP Municípios)
+## Formação
 
-### Temas
-`risco político` · `eleições` · `crises pós-eleitorais` · `relações institucionais` · `análise e visualização de dados` · `América Latina`
+- Doutorado em Relações Internacionais, USP (2025), com bolsa FAPESP e doutorado sanduíche na American University, em Washington
+- Mestrado em Ciência Política, USP (2020), com bolsa CNPq
+- Bacharelado em Direito, Faculdade de Direito da USP (2025). Advogado inscrito na OAB-MG
+- Bacharelado em Ciências Sociais, FFLCH-USP (2016), com intercâmbio na Université Paris-Sorbonne
+- Diplomado en Observación Electoral, Universidad de Salamanca (2022)
 
-### Contato
+## Contato
+
 [LinkedIn](https://www.linkedin.com/in/ludamasceno)
